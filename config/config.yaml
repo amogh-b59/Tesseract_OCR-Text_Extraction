@@ -1,0 +1,6 @@
+input_dir = "input"  
+output_dir = "output_texts"
+
+Phone Number: \W\d{2}\s\d{10} or \d{10} 
+Email id:  pattern1 = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+

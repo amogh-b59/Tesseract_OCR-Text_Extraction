@@ -1,0 +1,90 @@
+=== Page 1 ===
+AMOGH B
+
+Bengaluru | Ph: 191 8864775445 | amogh-b@outlook com | wa linkedin comln‘amogh-b
+
+EMPLOYMENT
+
+Data Science Mentor & Guest Facully War 2024— present
+
+Slatsparks Academy
+
+‘Developed and curated high-quality Data Science course materials, including lectures, hands-on projects, and assessments,
+talored to various leaning levels and industry requirements.
+
+“+ Designed and delvered comprehensive Data Science courses for both technical and non-technical students, enhancing their
+proficiency in data analysis, machine learning, and statistical modeling,
+
+“Junior Software Developer - Al ML (Oct 2023 - Mar 2024
+
+[Empulse Market Research and Data Analytics Pvt Lid
+
+‘Led the development and implementation ofa comprehensive Market Research & Data Analytics solution fora key Supply Chain
+‘Management cient, resuting in enhanced data-driven decision-making processes.
+
+‘+ Led the Development ofa Time Series Forecasting Engine and company’s Data Science training materia.
+
+“ Spearheaded Tableau Visualization tasks, creating visually compeling and insight dashboards thal provided stakeholders with
+real-time sighs info supply chain metcs, improving overall operational ficiency
+
+‘+ Implemented Data Quaity check pipelines, data preprocessing pipelines, and data transformation pipelines talore to the unique
+requirements of FN and Mela-Learner models.
+
+‘+ Leveraged deep learning Recurrent Neural Network (FINN) models. alongside Metalearner ensemble techniques, to construct
+advanced forecasting models, thereby enhancing the accuracy and robustness of predictive analyicscapabilies,
+
+“+ Provided technical leadership and mentorship to trainee team members, fostering a collaborative and innovative work
+fnviranment.
+
+DATA SCIENTIST ‘Mar 2022 - May 2028
+
+Turinglinds.Ai~ Soothsayer Analytics
+
+‘+ Joined Turinghinds A for their comprehensive work-integrated learning program in collaboration with INSOFE gaining hands-on
+fexperience and insight nto industry practoes while contributing fo real-word projects and inatives,
+
+‘+ Spearheaded the development of a robust Signature Detection Accelerator and Next Word Prediction Accelorator leveraging
+cuting-2dge object detection methodologies ike YOLO (You Only Look Once) and B Directional LSTM and NLT in NLP
+
+“+ equited proficency in various machine learning algorithms, inckuding regression, classiication, and clustering, trough practical
+traning and projects.
+
+‘+ Conducted extensive experimentation and fine-tuning of hyperparameters to improve model accuracy and speed,
+
+‘TRAINEE ENGINEER - Internship June 2019 - Mar 2020
+‘Samironies Data Products Lis
+
+‘Was trained on technologies tke Cadelgnier 3.1.10, PHP and MySQL.
+
+‘+ Wotked on User Authentication and Login Forme.
+
+SKILLS
+
+Python, F, MySa Monga0S, Tableau, Pandas, PyNUPDF.Numpy, Sckitleam, Maiglalb, Seabarn. OpenGV. PyTrh,
+Tensoriow, Keras, NLTK, Spacy, ANN, CNN, ANN, Transformers, Gen Al, LLM, LangGhain, Openal, Docker, Jenkins, AWS,
+‘Azure, Flask, Stroamit, Fast APL
+
+EDUCATION
+
+Master of Computer Applications Tay BBO Feb BORE
+dain Univers
+
+Bachelor of Computer Applications, ‘Aug 2016 - Apr 2019
+Surana College
+
+CERTIFICATIONS
+ost Grad Program in Computational Data Science ‘ar 2022 Tan 2025
+UupGrad INSOFE & Case Western Reserve University
+
+‘Tableau for Data Scientists
+Linkedin Learning
+
+Prompt Engineering for ChatGPT
+Vanderbt Univesity - Coursera
+
+ACHIEVEMENTS
++ Guest Speaker -Fundaments of Graphic Designing & Print Media Designing - Surana College ‘Aug 2020
+1 One ofthe top 9 winnere in the Mid-Term Hackathon organized by INSOFE
+
+
+
